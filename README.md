@@ -2,7 +2,7 @@
 
 **Abstract**
 
-This paper investigates the performance of the top 5 highest valued technology stocks—Microsoft (MSFT), Amazon (AMZN), Apple (AAPL), Alphabet (GOOG), and Meta (META)—during the first half of 2024. Utilizing Python libraries such as Pandas, Pandas-Datareader, Matplotlib, and PyPortfolioOpt, we analyze stock prices, daily simple rate of return, mean returns, variances, standard deviations, and correlations. This analysis provides insights into the similarities, differences, and potential investment opportunities within these tech giants.
+Investigates the performance of the top 5 highest valued technology stocks—Microsoft (MSFT), Amazon (AMZN), Apple (AAPL), Alphabet (GOOG), and Meta (META)—during the first half of 2024. Utilizing Python libraries such as Pandas, Pandas-Datareader, Matplotlib, and PyPortfolioOpt, we analyze stock prices, daily simple rate of return, mean returns, variances, standard deviations, and correlations. This analysis provides insights into the similarities, differences, and potential investment opportunities within these tech giants.
 
 **1. Introduction**
 
